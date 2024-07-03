@@ -1,6 +1,6 @@
 {
     "name": "AI-on-the-edge",
-    "version": "v15.7.1",
+    "version": "v15.7.0",
     "funding_url": "https://www.paypal.com/donate?hosted_button_id=8TRSVYNYKDSWL",
     "new_install_prompt_erase": false,
     "builds": [
